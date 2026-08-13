@@ -1,6 +1,4 @@
 # Explainable Deep Learning Framework for Early Mental Health Risk Prediction Using Bi-LSTM
-# Explainable Deep Learning Framework for Early Mental Health Risk Prediction Using Bi-LSTM
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-DeepLearning-red?logo=keras&logoColor=white)
