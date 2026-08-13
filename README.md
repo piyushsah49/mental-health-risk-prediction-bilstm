@@ -7,7 +7,7 @@ The proposed system is designed as a **preventive mental healthcare analytics fr
 
 ---
 
-## Proposed Pipeline
+## Proposed Workflow
 
 ![Pipeline](figures/workflow_diagram.png)
 
