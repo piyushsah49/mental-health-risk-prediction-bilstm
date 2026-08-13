@@ -1,5 +1,16 @@
 # Explainable Deep Learning Framework for Early Mental Health Risk Prediction Using Bi-LSTM
+# Explainable Deep Learning Framework for Early Mental Health Risk Prediction Using Bi-LSTM
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red?logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-f7931e?logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-green)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow?logo=googlecolab&logoColor=black)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/mental-health-risk-prediction-bilstm/blob/main/notebook/Mental_Health_BiLSTM.ipynb)
+
+---
 ## Overview
 This project predicts **mental health risk levels (Low, Medium, High)** from textual statements using a **Bi-directional Long Short-Term Memory (Bi-LSTM)** model. The framework focuses on **early risk assessment** and integrates **Explainable AI (XAI)** to improve transparency and interpretability of predictions.
 
